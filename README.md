@@ -1,2 +1,2 @@
 # probando123...
-Un repo hecho para reaprender a usar esta cosa
+Un repo hecho para reaprender a usar esta herramienta
